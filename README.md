@@ -79,7 +79,7 @@ Foi gerada uma **matriz de correlação** para entender a relação entre os 30 
 📀 **Observação:** Algumas características possuem **alta correlação**, o que pode indicar **redundância** e necessidade de redução de dimensionalidade.
 
 🖼️ **Imagem da Matriz de Correlação**:
-![Correlação](correlations.png)
+![Image](https://github.com/user-attachments/assets/3f1f8105-39a4-4485-8a08-282523229776)
 
 ---
 
